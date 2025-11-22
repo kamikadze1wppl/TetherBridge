@@ -1,4 +1,4 @@
-# TetherBridge
+# TetherBridge -ROOT ONLY
 Advanced USB Tethering and iptables Port Forwarding on Rooted Android: Enabling LAN Access to Linux PC Services via the Android Device's IP.
 
 * **Script 1: `usbteth.sh` (Android / Device-side forwarding script)**
